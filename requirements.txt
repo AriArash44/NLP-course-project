@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter
+transformers
+torch
+datasets
+emoji
+hazm
+clean-text
